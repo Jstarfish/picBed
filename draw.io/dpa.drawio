@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T11:48:58.668Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="A3PjcJiXlylgNQu5T1Ze" version="14.2.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-25T12:39:32.250Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="dIdsw45LsjYF8AFQnlCC" version="14.2.4" type="github" pages="5">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="动态商品广告优势">
     <mxGraphModel dx="1351" dy="877" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -259,6 +259,12 @@
       <root>
         <mxCell id="VJHMUFfCbgzdDs19GGkj-0" />
         <mxCell id="VJHMUFfCbgzdDs19GGkj-1" parent="VJHMUFfCbgzdDs19GGkj-0" />
+        <mxCell id="syXsr3pna4KBL8dzPyY6-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJHMUFfCbgzdDs19GGkj-1">
+          <mxGeometry x="380" y="250" width="760" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="syXsr3pna4KBL8dzPyY6-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJHMUFfCbgzdDs19GGkj-1">
+          <mxGeometry x="369" y="50" width="800" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="DBCQ0x9Cq8MBXt1jpmIz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VJHMUFfCbgzdDs19GGkj-1" source="DBCQ0x9Cq8MBXt1jpmIz-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="190" as="targetPoint" />
@@ -275,6 +281,11 @@
         <mxCell id="DBCQ0x9Cq8MBXt1jpmIz-1" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;手动上传（Excel）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJHMUFfCbgzdDs19GGkj-1">
           <mxGeometry x="585" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="syXsr3pna4KBL8dzPyY6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VJHMUFfCbgzdDs19GGkj-1" source="DBCQ0x9Cq8MBXt1jpmIz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DBCQ0x9Cq8MBXt1jpmIz-2" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;自动对接（XML）&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJHMUFfCbgzdDs19GGkj-1">
           <mxGeometry x="720" y="70" width="120" height="60" as="geometry" />
         </mxCell>
@@ -285,7 +296,7 @@
           <mxGeometry x="215" y="460" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DBCQ0x9Cq8MBXt1jpmIz-6" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;行业字段规则校验&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VJHMUFfCbgzdDs19GGkj-1">
-          <mxGeometry x="550" y="310" width="190" height="60" as="geometry" />
+          <mxGeometry x="550" y="270" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="syXsr3pna4KBL8dzPyY6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="VJHMUFfCbgzdDs19GGkj-1" source="DBCQ0x9Cq8MBXt1jpmIz-9" target="syXsr3pna4KBL8dzPyY6-4">
           <mxGeometry relative="1" as="geometry">
