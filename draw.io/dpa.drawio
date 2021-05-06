@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T07:07:19.216Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ySVnGq7M3CgvVt2BKtFG" version="14.6.10" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-06T07:08:36.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="EhClPlMnv5kYtPsWVxzb" version="14.6.10" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="动态商品广告优势">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -186,7 +186,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nw2DWrwCXYvOcLke9YjN-59" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#545454&quot;&gt;创意拼接和商品召回&lt;br&gt;（检索端）&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#5C5C5C;" parent="nw2DWrwCXYvOcLke9YjN-1" vertex="1">
+        <mxCell id="nw2DWrwCXYvOcLke9YjN-59" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#545454&quot;&gt;创意拼接和商品召回&lt;br&gt;（展现端）&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#5C5C5C;" parent="nw2DWrwCXYvOcLke9YjN-1" vertex="1">
           <mxGeometry x="630" y="180" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nw2DWrwCXYvOcLke9YjN-61" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;rounded=0;sketch=0;" parent="nw2DWrwCXYvOcLke9YjN-1" vertex="1">
