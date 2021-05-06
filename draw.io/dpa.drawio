@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T08:27:40.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="N3no11x5NLjwdfyAeNEc" version="14.6.10" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-06T09:47:05.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="6xcmaJle4NKMC3h55zyl" version="14.6.10" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="动态商品广告优势">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -261,15 +261,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QuAjL29x0YdXgFLmzHyW" name="直投+快投">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ukLUVH2c7tUCWspS7jZm-0" />
         <mxCell id="ukLUVH2c7tUCWspS7jZm-1" parent="ukLUVH2c7tUCWspS7jZm-0" />
         <mxCell id="oTPfiJg0cFZnxWwctIDW-30" value="直投" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="ukLUVH2c7tUCWspS7jZm-1" vertex="1">
-          <mxGeometry x="190" y="190" width="100" height="40" as="geometry" />
+          <mxGeometry x="200" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oTPfiJg0cFZnxWwctIDW-31" value="快投" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="ukLUVH2c7tUCWspS7jZm-1" vertex="1">
-          <mxGeometry x="190" y="470" width="100" height="40" as="geometry" />
+          <mxGeometry x="440" y="160" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
