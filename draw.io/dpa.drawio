@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T07:43:34.517Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="j_slgXWSIZztZB7ku2WH" version="14.6.10" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-06T07:43:50.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="K4EK6ZnHYnoc1WJtzvr4" version="14.6.10" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="动态商品广告优势">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -251,11 +251,11 @@
         <mxCell id="Yo5Dx6syS5xJVPen08iN-2" style="orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;strokeWidth=2;" edge="1" parent="nw2DWrwCXYvOcLke9YjN-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="400" as="targetPoint" />
-            <mxPoint x="690" y="590" as="sourcePoint" />
+            <mxPoint x="670" y="580" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yo5Dx6syS5xJVPen08iN-3" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#262626&quot;&gt;广告物料信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="nw2DWrwCXYvOcLke9YjN-1">
-          <mxGeometry x="760" y="498.4" width="100" height="20" as="geometry" />
+        <mxCell id="Yo5Dx6syS5xJVPen08iN-3" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#262626&quot;&gt;广告物料信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-45;" vertex="1" parent="nw2DWrwCXYvOcLke9YjN-1">
+          <mxGeometry x="730" y="488.4" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
