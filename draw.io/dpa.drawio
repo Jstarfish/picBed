@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T08:25:08.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="KC-_Cn8qUKUYFT2Gngxc" version="14.6.10" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-06T08:26:13.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="eyRmbNbOgUfFkKlNhuRh" version="14.6.10" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="动态商品广告优势">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
         <mxCell id="nw2DWrwCXYvOcLke9YjN-19" value="&lt;font style=&quot;font-size: 15px&quot; face=&quot;Comic Sans MS&quot;&gt;商品库&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#5C5C5C;" parent="nw2DWrwCXYvOcLke9YjN-1" vertex="1">
           <mxGeometry x="337.5" y="438.4" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nw2DWrwCXYvOcLke9YjN-26" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;strokeWidth=2;" parent="nw2DWrwCXYvOcLke9YjN-1" edge="1">
+        <mxCell id="nw2DWrwCXYvOcLke9YjN-26" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#5C5C5C;strokeWidth=2;strokeColor=#1BA1E2;" parent="nw2DWrwCXYvOcLke9YjN-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550.2" y="408" as="targetPoint" />
             <mxPoint x="450" y="408" as="sourcePoint" />
@@ -175,7 +175,7 @@
         <mxCell id="nw2DWrwCXYvOcLke9YjN-51" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;创意模板&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#5C5C5C;" parent="nw2DWrwCXYvOcLke9YjN-1" vertex="1">
           <mxGeometry x="571" y="630" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nw2DWrwCXYvOcLke9YjN-57" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;strokeWidth=2;" parent="nw2DWrwCXYvOcLke9YjN-1" edge="1">
+        <mxCell id="nw2DWrwCXYvOcLke9YjN-57" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#5C5C5C;strokeWidth=2;strokeColor=#1BA1E2;" parent="nw2DWrwCXYvOcLke9YjN-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="310" as="targetPoint" />
             <mxPoint x="670" y="400" as="sourcePoint" />
@@ -198,7 +198,7 @@
         <mxCell id="nw2DWrwCXYvOcLke9YjN-63" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Comic Sans MS&quot;&gt;AD&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#5C5C5C;" parent="nw2DWrwCXYvOcLke9YjN-1" vertex="1">
           <mxGeometry x="675" y="115" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nw2DWrwCXYvOcLke9YjN-65" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontColor=#5C5C5C;strokeWidth=2;" parent="nw2DWrwCXYvOcLke9YjN-1" edge="1">
+        <mxCell id="nw2DWrwCXYvOcLke9YjN-65" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#5C5C5C;strokeWidth=2;strokeColor=#1BA1E2;" parent="nw2DWrwCXYvOcLke9YjN-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="300" as="targetPoint" />
             <mxPoint x="410" y="360" as="sourcePoint" />
