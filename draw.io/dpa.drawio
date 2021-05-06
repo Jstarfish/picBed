@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T08:22:58.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="eQMlLj6nwe5KEqXnPey3" version="14.6.10" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-06T08:25:08.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="KC-_Cn8qUKUYFT2Gngxc" version="14.6.10" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="动态商品广告优势">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -204,9 +204,9 @@
             <mxPoint x="410" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vPvBT19LjmJiKO63VgOE-3" value="&lt;span style=&quot;font-size: 14px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;推送结构化商品信息&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" parent="nw2DWrwCXYvOcLke9YjN-65" vertex="1" connectable="0">
+        <mxCell id="vPvBT19LjmJiKO63VgOE-3" value="&lt;span style=&quot;font-size: 14px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;推送结构化商品信息&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;rotation=0;" parent="nw2DWrwCXYvOcLke9YjN-65" vertex="1" connectable="0">
           <mxGeometry x="-0.0654" y="2" relative="1" as="geometry">
-            <mxPoint x="-10" y="-13" as="offset" />
+            <mxPoint x="-9" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nw2DWrwCXYvOcLke9YjN-67" value="" style="outlineConnect=0;gradientDirection=north;fillColor=#d5e8d4;strokeColor=#82b366;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.machine_learning;rounded=0;sketch=0;" parent="nw2DWrwCXYvOcLke9YjN-1" vertex="1">
@@ -224,13 +224,13 @@
             <mxPoint x="474.6" y="134" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qeJBSPBHF9ih51C6zXTI-0" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Comic Sans MS&quot; color=&quot;#2b2b2b&quot;&gt;对接商品信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-30;" parent="nw2DWrwCXYvOcLke9YjN-1" vertex="1">
-          <mxGeometry x="211" y="419" width="100" height="20" as="geometry" />
+        <mxCell id="qeJBSPBHF9ih51C6zXTI-0" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Comic Sans MS&quot; color=&quot;#333333&quot;&gt;对接商品信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-35;" parent="nw2DWrwCXYvOcLke9YjN-1" vertex="1">
+          <mxGeometry x="207.5" y="418.4" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qeJBSPBHF9ih51C6zXTI-1" value="" style="html=1;aspect=fixed;shadow=0;align=center;verticalAlign=top;shape=mxgraph.gcp2.database_uploading;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="nw2DWrwCXYvOcLke9YjN-1" vertex="1">
           <mxGeometry x="337.5" y="364" width="83.33" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qeJBSPBHF9ih51C6zXTI-3" value="&lt;font color=&quot;#333333&quot;&gt;默认计费关键词&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nw2DWrwCXYvOcLke9YjN-1" vertex="1">
+        <mxCell id="qeJBSPBHF9ih51C6zXTI-3" value="&lt;font color=&quot;#333333&quot; face=&quot;Comic Sans MS&quot;&gt;默认计费关键词&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nw2DWrwCXYvOcLke9YjN-1" vertex="1">
           <mxGeometry x="420" y="570" width="145" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vPvBT19LjmJiKO63VgOE-5" value="&lt;font color=&quot;#191919&quot;&gt;query&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=15;fontFamily=Comic Sans MS;rotation=45;" parent="nw2DWrwCXYvOcLke9YjN-1" vertex="1">
@@ -254,8 +254,8 @@
             <mxPoint x="670" y="580" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yo5Dx6syS5xJVPen08iN-3" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#262626&quot;&gt;广告物料信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-45;" vertex="1" parent="nw2DWrwCXYvOcLke9YjN-1">
-          <mxGeometry x="730" y="488.4" width="100" height="20" as="geometry" />
+        <mxCell id="Yo5Dx6syS5xJVPen08iN-3" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#262626&quot; face=&quot;Comic Sans MS&quot;&gt;广告物料信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-45;" vertex="1" parent="nw2DWrwCXYvOcLke9YjN-1">
+          <mxGeometry x="730" y="478.4" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
