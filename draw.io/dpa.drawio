@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T02:35:40.657Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ATS3HPeH4GqFVI09IgYb" version="14.6.10" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-07T03:16:22.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="KFLPtQRC3b1k1bh9pscC" version="14.6.10" type="github" pages="7">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="动态商品广告优势">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -744,6 +744,71 @@
         </mxCell>
         <mxCell id="rhfVMlEYKa6Ku-XAavIZ-41" value="&lt;span style=&quot;font-size: 18px&quot;&gt;智能投放&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rhfVMlEYKa6Ku-XAavIZ-1" vertex="1">
           <mxGeometry x="439" y="640" width="146" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_TObqIrF9ZYFZ1AOwiuJ" name="DPA产生背景">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="sFahhn2WngsOC3XizfDf-0" />
+        <mxCell id="sFahhn2WngsOC3XizfDf-1" parent="sFahhn2WngsOC3XizfDf-0" />
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-17" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="160" y="430" width="390" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="680" y="430" width="390" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="680" y="150" width="390" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="160" y="150" width="390" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="HhNt9wHQxes3fIJuoDoY-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/free-large-boss-icon-set/128/Admin.png" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="697" y="450" width="86" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-2" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Black_128x128.png;strokeWidth=2;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="165" y="180" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/avatar-vol-9/512/5-128.png;strokeWidth=2;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="695" y="180" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/online-marketing-hand-drawn-vol-1/52/advertising__announcement__online__promote__advertisement__megaphone__onlineadvert-128.png;strokeWidth=2;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="174" y="450" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-6" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;缺少商品维度的定向&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="265" y="200" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-7" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;图文广告太单一&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="275" y="460" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-8" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;千人一面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="805" y="200" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-9" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;海量商品批量投放&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="805" y="460" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-11" value="&lt;font style=&quot;font-size: 15px ; line-height: 190%&quot; face=&quot;Comic Sans MS&quot;&gt;广告主：&lt;br&gt;商品千千万，该给哪个用户推荐哪个商品？&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="190" y="280" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-12" value="&lt;font style=&quot;font-size: 15px ; line-height: 190%&quot; face=&quot;Comic Sans MS&quot;&gt;网名：&lt;br&gt;天天推爆品，撞衫多可怕，谁丑谁尴尬&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="710" y="280" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-13" value="&lt;font style=&quot;font-size: 15px ; line-height: 190%&quot; face=&quot;Comic Sans MS&quot;&gt;广告主：&lt;br&gt;图文广告无法全面凸显我商品的优势，我需要更吸睛的方式&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="180" y="550" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-14" value="&lt;font style=&quot;font-size: 15px ; line-height: 190%&quot; face=&quot;Comic Sans MS&quot;&gt;投放人员：&lt;br&gt;客户有海量商品，倒在反复创建计划创意&lt;br&gt;[搜索广告还需购买关键词] 的路上&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="705" y="560" width="335" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-18" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="580" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-20" value="&lt;h1&gt;&lt;font color=&quot;#333333&quot;&gt;DPA 产生背景&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="120" y="50" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLBbhf91m8bm2Twbaw4a-21" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px&quot;&gt;传统 搜索/信息流 广告投放瓶颈&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sFahhn2WngsOC3XizfDf-1">
+          <mxGeometry x="165" y="110" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
