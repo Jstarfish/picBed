@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T08:47:26.573Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="0g0bIjJyvvY0j1nBE9DN" version="14.7.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-05-25T08:47:38.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="T5SWq-sFAtZp7m-vNeo9" version="14.7.0" type="github" pages="8">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="动态商品广告优势">
     <mxGraphModel dx="1426" dy="737" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1347,7 +1347,7 @@
             <mxPoint x="-20" y="541.655172413793" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R8RDPjUa0YeL7c6S2yjw-24" value="protectionStatus==1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="zlpXtRvs97fulgu1hl_5-1">
+        <mxCell id="R8RDPjUa0YeL7c6S2yjw-24" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;protectionStatus==1&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="zlpXtRvs97fulgu1hl_5-1">
           <mxGeometry y="512.5" width="140" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="R8RDPjUa0YeL7c6S2yjw-34" value="&lt;span style=&quot;color: rgb(57 , 60 , 86) ; font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 15px&quot;&gt;更新失败（超阈值）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="zlpXtRvs97fulgu1hl_5-1">
