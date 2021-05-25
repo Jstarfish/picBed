@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T03:06:55.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="H0syjssFZTr3vTKescIT" version="14.7.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-05-25T03:15:07.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="SBBIrU6B7ZG3bF1ByM7V" version="14.7.0" type="github" pages="7">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="动态商品广告优势">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -757,7 +757,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="230Z7tGWoCfuLAIFF9OB" name="mercahnt-crawler">
-    <mxGraphModel dx="2377" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ejFeKrvux11KH-gLDIxC-0" />
         <mxCell id="ejFeKrvux11KH-gLDIxC-1" parent="ejFeKrvux11KH-gLDIxC-0" />
@@ -787,6 +787,11 @@
         </mxCell>
         <mxCell id="ejFeKrvux11KH-gLDIxC-21" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;组装stemap&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ejFeKrvux11KH-gLDIxC-1">
           <mxGeometry x="1030" y="60" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KH147xV1CtQnG2iCD21X-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ejFeKrvux11KH-gLDIxC-1" source="ejFeKrvux11KH-gLDIxC-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1409.9999999999995" y="80.11764705882354" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ejFeKrvux11KH-gLDIxC-23" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;SubSiteMapProcess&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ejFeKrvux11KH-gLDIxC-1">
           <mxGeometry x="1180" y="60" width="150" height="40" as="geometry" />
@@ -907,15 +912,6 @@
         <mxCell id="HZCyAkcgF9kj8hvN9qaY-36" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;解析 subxml&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="ejFeKrvux11KH-gLDIxC-1">
           <mxGeometry x="1300" y="400" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KH147xV1CtQnG2iCD21X-0" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;文字预审&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="ejFeKrvux11KH-gLDIxC-1">
-          <mxGeometry x="1110" y="900" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KH147xV1CtQnG2iCD21X-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;文字预审&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="ejFeKrvux11KH-gLDIxC-1">
-          <mxGeometry x="1200" y="900" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KH147xV1CtQnG2iCD21X-2" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;文字预审&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="ejFeKrvux11KH-gLDIxC-1">
-          <mxGeometry x="1290" y="900" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="KH147xV1CtQnG2iCD21X-3" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;入库&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="ejFeKrvux11KH-gLDIxC-1">
           <mxGeometry x="1110" y="760" width="80" height="30" as="geometry" />
         </mxCell>
@@ -957,6 +953,15 @@
         </mxCell>
         <mxCell id="KH147xV1CtQnG2iCD21X-13" value="!=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ejFeKrvux11KH-gLDIxC-1">
           <mxGeometry x="1010" y="680" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KH147xV1CtQnG2iCD21X-19" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;统计错误信息&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ejFeKrvux11KH-gLDIxC-1">
+          <mxGeometry x="1420" y="60" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KH147xV1CtQnG2iCD21X-20" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;delNotExistOuterIds&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ejFeKrvux11KH-gLDIxC-1">
+          <mxGeometry x="1630" y="60" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KH147xV1CtQnG2iCD21X-21" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;updateFeedStatus&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ejFeKrvux11KH-gLDIxC-1">
+          <mxGeometry x="1830" y="60" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
